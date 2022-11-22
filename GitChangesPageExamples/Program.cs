@@ -15,7 +15,7 @@ namespace GitChangesPageExamples
             // ChangesGoHere()
             // Seen Below...
             //seen
-            //Changes 22-11-2022
+            //Changes 
         }
 
         static void ChangesGoHere()
